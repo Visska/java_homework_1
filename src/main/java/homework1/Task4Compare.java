@@ -1,3 +1,5 @@
+package homework1;
+
 public class Task4Compare {
     public static void main(String[] args) {
         int numberA = (int)(Math.random() * 30);

@@ -1,3 +1,5 @@
+package homework1;
+
 public class Task3Calculate {
     public static void main(String[] args) {
         int number1 = (int)(Math.random() * 10);

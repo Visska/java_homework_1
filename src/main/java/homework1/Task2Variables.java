@@ -1,3 +1,5 @@
+package homework1;
+
 import java.sql.SQLOutput;
 
 public class Task2Variables {

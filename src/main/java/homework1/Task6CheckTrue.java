@@ -1,3 +1,5 @@
+package homework1;
+
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Task6CheckTrue {

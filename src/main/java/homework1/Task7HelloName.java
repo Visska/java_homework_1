@@ -1,3 +1,5 @@
+package homework1;
+
 public class Task7HelloName {
     public static void main(String[] args) {
         String name = "Elena";
