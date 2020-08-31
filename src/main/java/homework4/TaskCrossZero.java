@@ -124,7 +124,7 @@ public class TaskCrossZero {
     private static boolean checkDiagonal2(char symbol) {
         int lastIndex = SIZE - 1;
         for (int i = 0; i < SIZE; i++) {
-            if (map[lastIndex][lastIndex] != symbol)
+            if (map[lastIndex - i][i] != symbol)
                 return false;
         }
         return true;
